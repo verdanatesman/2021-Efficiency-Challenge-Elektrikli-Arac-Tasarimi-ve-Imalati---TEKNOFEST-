@@ -1,0 +1,6 @@
+Stator paket boyu: 30 mm
+Rotor paket boyu:32mm
+Sipir sayısı : 38
+Tel çapı :6x0.6mm
+
+Buradaki stator paket boyu imalatta 32 olmuştur.
